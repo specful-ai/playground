@@ -2,7 +2,7 @@
 
 This repo is a playground for experimenting with an AI coding bot powered by static code analysis and large language models. Follow the steps below to let the AI bot write some code for you.
 
-Currently the playground only supports the Go programming language. If you have any ideas or comments, use Issues or Discussions to let us know.
+Currently the playground only supports the Go programming language. If you have any ideas or comments, use [Discussions](https://github.com/specful-ai/playground/discussions) to let us know.
 
 ## Step 1. Create a new issue
 
