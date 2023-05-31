@@ -8,9 +8,9 @@ Currently the playground only supports the Go programming language. If you have 
 
 <img width="917" alt="1-new-issue" src="https://github.com/specful-ai/playground/assets/196279/3d5075ca-230c-4412-b221-89e08395a26b">
 
-## Step 2. Enter a title and a description. Assign it to devnullrandom.
+## Step 2. Enter a title and a description.
 
-<img width="831" alt="2-new-issue" src="https://github.com/specful-ai/playground/assets/196279/3e9e9163-c52c-4a34-a385-22fe2dc76964">
+<img width="485" alt="2-new-issue" src="https://github.com/specful-ai/playground/assets/196279/e915f1e4-bcc6-4340-ab16-e7296bb94081">
 
 Click "Submit new issue" to create it.
 
